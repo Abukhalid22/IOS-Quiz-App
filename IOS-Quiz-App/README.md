@@ -1,6 +1,6 @@
 # IOS-QuizApp
 
-This is a simple IOS arabic Quiz Application that i created for kids so that they can learn the arabic language
+This is a simple IOS arabic Quiz Application where children can learn the arabic language
 
 ### ScreenShots
 
